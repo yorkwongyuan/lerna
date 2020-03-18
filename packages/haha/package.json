@@ -1,0 +1,27 @@
+{
+  "name": "haha",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "yorkwongyuan <631824375@qq.com>",
+  "homepage": "https://github.com/yorkwongyuan/lerna#readme",
+  "license": "ISC",
+  "main": "lib/haha.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yorkwongyuan/lerna.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "start": "node index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/yorkwongyuan/lerna/issues"
+  }
+}

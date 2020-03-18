@@ -1,0 +1,15 @@
+{
+  "name": "any-touch-copy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "create:package": "npx lerna create"
+  },
+  "author": "wy <631824375@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lerna": "^3.20.2"
+  }
+}
